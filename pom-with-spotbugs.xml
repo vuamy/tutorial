@@ -223,7 +223,6 @@
         </configuration>
       </plugin>
     </plugins>
-      <reporting>
     <plugins>
         <plugin>
             <groupId>com.github.spotbugs</groupId>
@@ -235,7 +234,6 @@
             </configuration>
         </plugin>
     </plugins>
-</reporting>
   </reporting>
 
 
