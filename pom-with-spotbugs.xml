@@ -101,7 +101,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.traccar.Main</mainClass>
+                            <mainClass>org.yamcs.Main</mainClass>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
                             <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
@@ -129,7 +129,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>org.traccar.Main</mainClass>
+                            <mainClass>org.yamcs.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
