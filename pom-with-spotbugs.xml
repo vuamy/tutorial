@@ -222,8 +222,6 @@
           <show>private</show>
         </configuration>
       </plugin>
-    </plugins>
-    <plugins>
         <plugin>
             <groupId>com.github.spotbugs</groupId>
             <artifactId>spotbugs-maven-plugin</artifactId>
